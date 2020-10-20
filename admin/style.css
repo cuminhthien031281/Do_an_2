@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)), url(./img/admin_login.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.login-box {
+    max-width: 850px;
+    float: none;
+    margin: 150px auto;
+}
+
+.mx-auto {
+    background-color: white;
+    padding: 70px;
+}
+
+.mx-auto h1 {
+    color: #222f3e;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-group {
+    margin-top: 30px;
+    color: #222f3e;
+}
+
+.form-control {
+    background-color: transparent !important;
+}
+
+.btn {
+    margin-top: 10px;
+    width: 300px;
+    background-color: #222f3e;
+    border: none;
+}
