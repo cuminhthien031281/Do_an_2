@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    color: white;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+} 
+.wrapper{
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    left: 0;
+    background: #1b1b1b;
+}
+.wrapper .text{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 65px;
+    text-align: center;
+    background: #1e1e11;
+}
+nav ul{
+
+}
